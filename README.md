@@ -63,6 +63,10 @@ This Power BI project visualizes sales data from the provided Campfly dataset to
 ## Conclusion
 The analysis highlights significant insights into Campfly's sales and profitability trends. **Product 7** stands out as a top performer, driving the highest sales and profit, while cities like **Christchurch** and **Manukau** emerge as key markets. Wholesale dominates as the primary sales channel, but there is untapped potential in the Export segment. Despite overall profitability, certain products like **Product 13** and low-performing customers require attention to improve margins. The steady profit growth from 2017 to 2018, followed by fluctuations, indicates opportunities to stabilize revenue streams by optimizing pricing strategies and expanding into high-performing regions. Strengthening relationships with top customers, reducing costs for underperforming products, and leveraging high-margin items will be crucial for sustained growth.
 
+## Tools 
+- **Power BI**: For data visualization and dashboard creation.
+- **DataSquirrel.ai**: (https://datasquirrel.ai/) For initial data cleaning and preprocessing.
+
 ## How to Use the Dashboard
 1. **Filters and Slicers**
    - Use filters to analyze sales by currency, warehouse, or product.
